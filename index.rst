@@ -52,7 +52,7 @@ São Paulo, Brazil
 
 I am a data scientist at `Bloomberg <https://www.bloomberg.com>`_. I am responsible for implementing and curating end-to-end financial data flows for Latin America, including the setup and monitoring of ETL pipelines, and pre- and post-publish quality control. I also develop and implement machine learning models to expand our data coverage (e.g. financial conditions index, agricultural crop yield forecast) and to detect anomalies in our data sets. In addition, I mentor colleagues in applying computer programming best practices and assist journalists with data-driven news.
 
-I am an analytical, dedicated and detail-oriented problem-solver with strong a and diverse academic background in data analysis, physics and geophysical fluid dynamics.
+I am an analytical, dedicated and detail-oriented problem-solver with a strong and diverse academic background in data analysis, physics and geophysical fluid dynamics.
 
 I am comfortable with a variety of technologies and a lifelong learner and have experience with international collaboration.
 
@@ -88,10 +88,10 @@ Selected work & research experience
 -----------------------------------
 
 +---------------+-------------------------------------------------------------------------------------------------------------------------+
-| 2018–present  | | `Bloomberg LP<https://www.bloomberg.com/>`_                                                                           |
+| 2018–present  | | `Bloomberg LP <https://www.bloomberg.com/>`_                                                                          |
 |               | | *São Paulo, SP, Brazil*                                                                                               |
 |               | | **Data scientist**                                                                                                    |
-+---------------+-------------------------------------------------------------------------------------------------------------------------+
+|               |                                                                                                                         |
 |               | * Data curation, quality control and implementation of data pipelines.                                                  |
 |               | * Develop machine learning models, e.g. financial conditions index for Brazil, agriculture crop yields forecasts.       |
 |               | * Co-organized a hackathon event with clients, university students to promote BQuant and BQL platforms.                 |
@@ -102,7 +102,7 @@ Selected work & research experience
 | 2016–present  | | `nublia <https://nublia.com/>`_                                                                                       |
 |               | | *São Paulo, SP, Brazil*                                                                                               |
 |               | | **Solopreneur** (concurrent with other activities)                                                                    |
-+---------------+-------------------------------------------------------------------------------------------------------------------------+
+|               |                                                                                                                         |
 |               | * Digital transformation and data science consultancy.                                                                  |
 |               | * Design of ETL pipelines.                                                                                              |
 |               | * Data science training.                                                                                                |
@@ -110,19 +110,18 @@ Selected work & research experience
 | 2002–2021     | | `Formula 1 São Paulo Grand Prix <https://f1saopaulo.com.br/>`_                                                        |
 |               | | *São Paulo, SP, Brazil*                                                                                               |
 |               | | **Race secretary** (concurrent with other activities)                                                                 |
-+---------------+-------------------------------------------------------------------------------------------------------------------------+
+|               | | **Deputy race secretary** (concurrent with other activities)                                                          |
+|               |                                                                                                                         |
 |               | * Coordinated information flux among `FIA <https://www.fia.com/>`_ officials and local organizers.                      |
 |               | * Assisted the Clerk of the Course and his deputies.                                                                    |
 |               | * Assisted facilities' and ceremonial set-up.                                                                           |
 |               | * Published and distributed sporting information.                                                                       |
 |               | * Translated documents.                                                                                                 |
-|               |                                                                                                                         |
-|               | | **Deputy race secretary** (concurrent with other activities)                                                          |
 +---------------+-------------------------------------------------------------------------------------------------------------------------+
 | 2016          | | Rio 2016 Organising Committee for the Olympic and Paralympic Games                                                    |
 |               | | *Rio de Janeiro, RJ, Brazil*                                                                                          |
 |               | | **Sport Information Coordinator -- Canoe sprint/para-canoe**                                                          |
-+---------------+-------------------------------------------------------------------------------------------------------------------------+
+|               |                                                                                                                         |
 |               | * Published and distributed sporting information.                                                                       |
 |               | * Supervised 10 volunteers.                                                                                             |
 |               | * Assisted athletes, team members, umpires and international federation officials.                                      |
@@ -132,7 +131,7 @@ Selected work & research experience
 | 2014–2016     | | `Centro de Biologia Marinha <http://cebimar.usp.br/>`_, Universidade de São Paulo                                     |
 |               | | *São Sebastião, SP, Brazil*                                                                                           |
 |               | | **Postdoctoral research fellow**                                                                                      |
-+---------------+-------------------------------------------------------------------------------------------------------------------------+
+|               |                                                                                                                         |
 |               | * Research on hydrodynamics and hydrography of the São Sebastião Channel.                                               |
 |               | * Mined and analyzed georeferenced data.                                                                                |
 |               | * Implemented MySQL/MariaDB database for data storage and management.                                                   |
@@ -146,7 +145,7 @@ Selected work & research experience
 | 2009–2014     | | `Instituto Oceanográfico <https://io.usp.br/>`_, Universidade de São Paulo                                            |
 |               | | *São Paulo, SP, Brazil*                                                                                               |
 |               | | **Sc.D. graduate student**                                                                                            |
-+---------------+-------------------------------------------------------------------------------------------------------------------------+
+|               |                                                                                                                         |
 |               | * Research on dynamics and observation of planetary waves and meso-scale eddies in the global oceans.                   |
 |               | * Mined and analyzed satellite remote sensing images.                                                                   |
 |               | * Developed signal de-noising filter using discrete wavelet transforms.                                                 |
@@ -160,7 +159,7 @@ Selected work & research experience
 | 2008–2009     | | `Bermuda Institute of Ocean Sciences <http://bios.edu/>`_                                                             |
 |               | | *Saint George, Bermuda*                                                                                               |
 |               | | **Trainee/research scholar**                                                                                          |
-+---------------+-------------------------------------------------------------------------------------------------------------------------+
+|               |                                                                                                                         |
 |               | * Independent research on influence of planetary waves on chlorophyll concentration using satellite images.             |
 |               | * Gave a series of short talks.                                                                                         |
 |               | * Fellow of the Nippon Foundation/Partnership for Observation of the Global Oceans.                                     |
